@@ -81,9 +81,6 @@ https://youtu.be/jXmBvnWQMU4
 
 ya finalizada la explicacion de los temas correspondientes a los capitulos 9 y 10 y su respectiva practica en los ejercicios propuestos podemos conclir la importancia de tener estos conocimientos en cuanto a mediciones en los circuito  y los diferentes metodos que existen para poder encontrar un dato faltante
 
-ya finalizada la explicacion de los temas correspondientes a  los capitulos 9 y 10 y se respectiva practica en los ejercicios propuestos
-
-
 
 6. BIBLIOGRAFÍA
 
