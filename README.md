@@ -3,6 +3,20 @@
 
 1. OBJETIVOS
 
+◆ Analizar tres métodos de resolver ecuaciones
+simultáneas
+
+◆ Utilizar el análisis de lazos para determinar
+cantidades desconocidas en un circuito
+
+◆ Utilizar el análisis de nodos para determinar
+cantidades desconocidas en un circuito
+
+conocer y explicar los principos de un campo magnetico-
+
+◆ Describir el principio de operación de varios tipos
+de dispositivos electromagnéticos
+
 
 
 2. MARCO TEÓRICO (RESUMEN)
@@ -40,8 +54,20 @@
 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+![image](https://user-images.githubusercontent.com/105679480/177925716-805e29eb-5613-4402-9dfb-94ff1e37eae7.png)
+![image](https://user-images.githubusercontent.com/105679480/177925736-6e6dba96-0a09-4e08-9bf0-3ca60d1c7fd4.png)
+![image](https://user-images.githubusercontent.com/105679480/177925773-03a70fc6-ec6a-4aad-8a1a-2dee35657e48.png)
+![image](https://user-images.githubusercontent.com/105679480/177925799-81f89fca-9a47-44b5-b31a-13ad854691cc.png)
+![image](https://user-images.githubusercontent.com/105679480/177925824-c113c7e5-0aa0-497b-a083-b6030c499278.png)
+![image](https://user-images.githubusercontent.com/105679480/177925881-0a0b804f-af0d-4be9-9ed9-e57626b14a12.png)
+![image](https://user-images.githubusercontent.com/105679480/177925853-1761e3ac-04c8-45af-a267-ddfa131c293e.png)
+![image](https://user-images.githubusercontent.com/105679480/177925940-55df42af-6db4-432a-bec1-ad5a2dd16fd9.png)
 
-
+![image](https://user-images.githubusercontent.com/105679480/177925982-408bdd61-7e02-405e-8c1b-742cebc512cf.png)
+![image](https://user-images.githubusercontent.com/105679480/177925911-fd263427-92a0-46bd-bfbd-d80be3de7cac.png)
+![image](https://user-images.githubusercontent.com/105679480/177926020-289b3875-a55e-4e08-a6ef-299bc5c67e32.png)
+![image](https://user-images.githubusercontent.com/105679480/177926049-31a3ecf6-e08a-4537-87aa-3a575d3428a8.png)
+![image](https://user-images.githubusercontent.com/105679480/177926063-2b6aa2b0-f9db-45cd-b16c-c1566874d8f0.png)
 
 
 4. VIDEO
