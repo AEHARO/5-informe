@@ -3,6 +3,9 @@
 
 1. OBJETIVOS
 
+conocer los conceptos escenciales  a cerca del analis de ramas ,nodos  y lazos.y la introduccion a nuevos temas como el magnetismos y electromagnetismo  en los circuitos electricos.
+objetivos especificos
+
 ◆ Analizar tres métodos de resolver ecuaciones
 simultáneas
 
