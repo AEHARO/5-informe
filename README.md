@@ -81,6 +81,13 @@ de dispositivos electromagnéticos
 
 6. BIBLIOGRAFÍA
 
+El método del voltaje en los nodos (artículo). (s. f.). Khan Academy. Recuperado 6 de julio de 2022, de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-node-voltage-method#:%7E:text=Definici%C3%B3n%3A%20voltaje%20en%20un%20nodo&text=Cuando%20usamos%20el%20t%C3%A9rmino%20de,sea%20el%20nodo%20de%20referencia.
+
+El método de la corriente de lazo (artículo). (s. f.). Khan Academy. Recuperado 6 de julio de 2022, de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-loop-current-method
+
+¿Qué es la ley de Faraday? (artículo). (s. f.). Khan Academy. Recuperado 6 de julio de 2022, de https://es.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields/magnetic-flux-faradays-law/a/what-is-faradays-law#:%7E:text=Fue%20formulada%20por%20Heinrich%20Lenz,de%20flujo%20que%20la%20produce.
+
+S. (2019, 3 febrero). Significado de Magnetismo. Significados. Recuperado 6 de julio de 2022, de https://www.significados.com/magnetismo/#:%7E:text=El%20electromagnetismo%20es%20la%20rama,ejemplo%2C%20en%20los%20campos%20magn%C3%A9ticos.
 
 
 RUBRICA
